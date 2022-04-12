@@ -16,10 +16,10 @@ function AboutUs() {
                               <h6 className="sub-title bgl-primary m-b20 text-primary">About Us</h6>
                               <h2 className="title">How We Can Help You Achieve Your Business Goal</h2>
                           </div>
-                          <p>Integer pretium molestie nisl, non blandit lectus suscipit in. Vivamus tellus diam, iaculis eget nulla sit amet, tincidunt consectetur sem. Suspendisse laoreet, quam sed faucibus feugiat, tortor velit suscipit orci, sed consectetur ante eros id urna. Mauris luctus nulla ut pharetra tempor.</p>
-                          <p className="m-b30">Mauris egestas eleifend sapien eu malesuada. Phasellus at metus eget sapien tristique accumsan non sit amet augue.</p>
+                          <p>For us, every relationship is built on trust and honesty. Before we start your website design, we engage with the key individuals in your business to truly understand the objectives you want to achieve. Our web development process keeps those people involved, engaged, and informed throughout the design, build, and your project's life.</p>
+                          <p className="m-b30">We design and build world-class responsive web applications that will help Your businesses.</p>
                           <img src="images/sign.png" alt=""/>
-                          <h4 className="m-b30">CEO Jhone Doe</h4>
+                          <h4 className="m-b30">CEO Slavo Popovic</h4>
                          <Link href="/about-us-1"><a  className="btn btn-link d-inline-flex align-items-center"><i className="fa fa-angle-right m-r10"></i>Learn More</a></Link> 
                       </div>
                   </div>

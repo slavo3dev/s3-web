@@ -7,9 +7,9 @@ import Counter from "../element/counter";
 import Features from "../element/our-features";
 import Projects from "../element/projects";
 import Newsletter from "../element/newsletter";
-import Team from "../element/team";
+// import Team from "../element/team";
 import Pricing from "../element/pricing";
-import Testimonial from "../element/testimonial";
+// import Testimonial from "../element/testimonial";
 import Blog from "../element/blog";
 import Quote from "../element/quote";
 import Cta from "../element/cta";
@@ -31,14 +31,12 @@ function Home() {
         <Features />
         <Projects />
         <Newsletter />
-        <Team />
+        {/* <Team /> */}
         <Pricing />
-        <Testimonial />
+        {/* <Testimonial /> */}
         <Blog />
         <Quote />
         <Cta />
-	  { /* 
-	  */}
       </div>
 	  <Footer />
     </>

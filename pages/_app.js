@@ -50,7 +50,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
 		<Head>
-			<title>Samar - React Template</title>
+			  <title>Prototype.NEXT Software Web Development | Digital Marketing | Consulting </title>
 			<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon.png"/>
         </Head>	
 		<div className="page-wraper">
@@ -58,7 +58,7 @@ function MyApp({ Component, pageProps }) {
 		</div>
 		
 		<a
-			href="https://themeforest.net/cart/configure_before_adding/32950742/?license=regular;"
+			href="https://www.prototypenext.com"
 			target="_blank"
 			className="bt-buy-now theme-btn"
 		>
@@ -66,7 +66,7 @@ function MyApp({ Component, pageProps }) {
 			<span>Buy Now</span>
 		</a>
 		<a
-			href="https://support.w3itexperts.com"
+			href="https://www.prototypenext.com"
 			target="_blank"
 			className="bt-support-now theme-btn"
 		>

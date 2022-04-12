@@ -14,8 +14,8 @@ function Slider1 () {
 						<div className="col-md-6">
 							<div className="banner-content">
 								<h6 data-wow-duration="1s" data-wow-delay="0.5s" className="wow fadeInUp sub-title text-primary">Creative Digital Agency</h6>
-								<h1 data-wow-duration="1.2s" data-wow-delay="1s" className="wow fadeInUp ">Build Stunning <span className="text-primary">Web Apps</span> With S3 Agency</h1>
-								<p  data-wow-duration="1.4s" data-wow-delay="1.5s" className="wow fadeInUp m-b30">For us, every relationship is built on trust and honesty. Before we start your website design, we engage with the key individuals in your business to truly understand objectives you want to achieve. Our web design process keeps those people involved, engaged and informed throughout design, build and the life of your project</p>
+								<h1 data-wow-duration="1.2s" data-wow-delay="1s" className="wow fadeInUp "><span className="text-primary">Seek Re-Invention</span><br /> With S3 Agency</h1>
+								<p  data-wow-duration="1.4s" data-wow-delay="1.5s" className="wow fadeInUp m-b30">Re-Invention moves the world forward. And that’s what we do best. We help organizations reinvent themselves through digital and cognitive transformation.</p>
 								<Link href="/about-us-1" ><a  data-wow-duration="1.6s" data-wow-delay="2s" className="wow fadeInUp btn btn-link d-inline-flex align-items-center" ><i className="fa fa-angle-right m-r10"></i>Learn More</a></Link>
 							</div>
 						</div>
